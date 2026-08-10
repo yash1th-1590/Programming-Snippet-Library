@@ -1,0 +1,5 @@
+# 3. Find Largest Number
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+print("Largest:", max(a, b))
